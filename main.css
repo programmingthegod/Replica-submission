@@ -1,0 +1,76 @@
+.container2{
+        width: 16.5cm;
+        height: 13.2cm;
+        position: fixed;
+        left: 8.7cm;
+        top: 80px;
+        background-color: white;
+        border-radius: 5px;
+}
+.image{
+        height: 12.6cm;
+        position: relative;
+        top: 15px;
+        left: 3.5cm;
+}
+.container2 .screenshare{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        position: relative;
+        bottom: 35px;
+        left: 20px;
+}
+.presenters{
+        position: fixed;
+        top: 5.8cm;
+        left: 1.3cm;
+        background-color: white;
+        height: 100px;
+        width: 6.8cm;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        border-radius: 6px;
+}
+.header1{
+        position: relative;
+        top: 16px;
+        left: 12px;
+}
+.pname{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        position: relative;
+        top: 4px;
+        left: 12px;
+        overflow-y: scroll;
+        width: 6.1cm;
+        height: 55px;
+        line-height: 1.8;
+}
+.attendees{
+        position: fixed;
+        top: 8.8cm;
+        left: 1.3cm;
+        background-color: white;
+        width: 6.8cm;
+        height: 6.5cm;
+        border-radius: 6px;
+}
+.header2{
+        position: relative;
+        top: 16px;
+        left: 12px;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.aname{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        position: relative;
+        top: 4px;
+        left: 12px;
+        overflow-y: scroll;
+        width: 6.1cm;
+        height: 5.2cm;
+        line-height: 1.8;
+}
